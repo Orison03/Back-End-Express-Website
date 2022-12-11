@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+    font-family: 'Poppins', sans-serif;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.header{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2rem;
+}
+
+.heading{
+    color: dodgerblue;
+    margin-top: 17px;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+}
+
+.icon{
+    color: white;
+    background-color: none;
+    color: dodgerblue;
+    font-size: 4rem;
+}
+
+.para{
+    text-align: center;
+    width: 70%;
+    margin: 1rem auto;
+}
+
+p{
+    color: white;
+}

@@ -1,0 +1,17 @@
+{
+  "name": "express-website",
+  "version": "1.0.0",
+  "description": "serving files class exercise",
+  "main": "index.js",
+  "author": "orison",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start":"nodemon ."
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
